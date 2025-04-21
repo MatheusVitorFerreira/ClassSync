@@ -7,7 +7,7 @@
   box-shadow: 2px 0 10px rgba(0, 0, 0, 0.05);
   border-top-right-radius: 25px;
   border-bottom-right-radius: 25px;
-  z-index: 1000;
+
 }
 
 .logoContainer {
@@ -53,6 +53,12 @@
   padding: 0.25rem 0.5rem;
   transition: all 0.2s ease;
 }
+
+.navIcon {
+  margin-right: 2px; 
+  font-size: 25px;   
+}
+
 
 .list li a:hover {
   background-color: #f0f4ff;

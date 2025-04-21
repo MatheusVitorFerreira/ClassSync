@@ -15,7 +15,7 @@ function App() {
     <div className="App">
       <Router>
         <Dashboard/>
-        <Container customClass="minHeight">
+        <Container>
           <Routes>
             <Route path="/dashboard" element={<Dashboard />} />
             <Route path="/usuarios" element={<Usuario />} />
