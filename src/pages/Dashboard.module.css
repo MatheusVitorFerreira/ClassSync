@@ -1,0 +1,6 @@
+.dashboardContainer {
+    display: flex;
+    background-color: #DCEDFE;
+    min-height: 100vh;
+  }
+  
